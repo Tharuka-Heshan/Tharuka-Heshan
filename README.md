@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://github.com/DARK-THARU">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Dark%20+%20Tharu+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI...!!👋+I+am+Dark%20+%20Tharu+...🙂☺️"
             alt="Typing SVG"
         />
     </a>
