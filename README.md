@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dark Tharu and I'm a Small Developer from Sri Lanka</h2>
+<h2 align="left">Hi 👋! My name is Dark Tharu and I'm a Small Devoloper from Sri Lanka</h2>
 
 ###
 
