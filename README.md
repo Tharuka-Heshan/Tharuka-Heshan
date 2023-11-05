@@ -1,5 +1,12 @@
 <h2 align="left">Hi 👋! My name is Dark Tharu and I'm from Sri Lanka</h2  #  
-# 🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+
+
+
+
+
+
+<h2 align="left">☺️🥰😜...කොහොමද ඔයාලට ඉතින්...☺️🥰😜</h2  #
+<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="70px">
 
 
 
@@ -22,7 +29,7 @@
 <p align="center">
     <a href="https://github.com/DARK-THARU">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI...👋+I+am+Dark%20+%20Tharu+...+🙂+☺️"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI...👋+I+am+Dark%20+%20Tharu+...+👨‍💻"
             alt="Typing SVG"
         />
     </a>
