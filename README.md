@@ -1,12 +1,11 @@
-<h2 align="left">Hi 👋! My name is Dark Tharu and I'm from Sri Lanka</h2  #  
+<h2 align="left">Hi...👋! My name is Tharuka Heshan and I am from Sri Lanka</h2  #  
 
 
 
 
 
 
-<h2 align="left">☺️🥰😜...කොහොමද ඔයාලට ඉතින්...☺️🥰😜</h2  #
-<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="70px">
+# <h2 align="left">☺️🥰😜...කොහොමද ඔයාලට ඉතින්...☺️🥰😜
 
 
 
@@ -15,10 +14,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dark-Tharu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Status Graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ 
+  
 
 ###
 
@@ -47,6 +44,10 @@
 - 🌱 I’m currently learning Python
 - <h3 align="left">Connect with me:</h3><p>   <a href="https://www.youtube.com/@Tharuka-Heshan" target="blank"><img align="center" src="https://i.ibb.co/YkThzVT/Seek-Png-com-youtube-icon-png-8071516-1.png" alt="https://www.youtube.com/@Tharuka-Heshan" height="40" width="40" /></a>  <a href="https://wa.me/94743389804" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5649/5649647.png" alt="https://wa.me/94743389804" height="50" width="50" /></a> 
 </p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
