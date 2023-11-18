@@ -1,4 +1,4 @@
-<h2 align="left">Hi...👋! My name is Tharuka Heshan and I am from Sri Lanka</h2  #  
+<h2 align="left">Hi...👋😇 My name is Tharuka Heshan and I am from Sri Lanka</h2  #  
 
 
 
