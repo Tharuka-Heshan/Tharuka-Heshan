@@ -19,9 +19,9 @@
 
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/DARK-THARU">
+    <a href="https://github.com/Tharuka-Heshan">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI...👋+I+am+Dark%20+%20Tharu+...+👨‍💻"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI...👋+I+am+Tharuka%20+%20Heshan+...+👨‍💻"
             alt="Typing SVG"
         />
     </a>
@@ -46,8 +46,8 @@
 
 
 
- <p align="center"> <a href="https://github.com/DARK-THARU"><img src="https://github-profile-trophy.vercel.app/?username=DARK-THARU&no-bg=true&no-frame=false&theme=algolia"></a></p>
+ <p align="center"> <a href="https://github.com/Tharuka-Heshan"><img src="https://github-profile-trophy.vercel.app/?username=Tharuka-Heshan&no-bg=true&no-frame=false&theme=algolia"></a></p>
 
-<p align="center"> <a href="https://github.com/DARK-THARU"><img  src="http://github-readme-streak-stats.herokuapp.com?user=DARK-THARU&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=00AEFF&sideNums=00AEFF"></a></p>
-<p align="center"> <a href="https://github.com/DARK-THARU"><img src="https://github-readme-stats.vercel.app/api?username=DARK-THARU&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
-<p align="center"> <a href="https://github.com/DARK-THARU"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-DARK-SHADOW&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
+<p align="center"> <a href="https://github.com/Tharuka-Heshan"><img  src="http://github-readme-streak-stats.herokuapp.com?user=Tharuka-Heshan&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=00AEFF&sideNums=00AEFF"></a></p>
+<p align="center"> <a href="https://github.com/Tharuka-Heshan"><img src="https://github-readme-stats.vercel.app/api?username=Tharuka-Heshan&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
+<p align="center"> <a href="https://github.com/Tharuka-Heshan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-DARK-SHADOW&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
