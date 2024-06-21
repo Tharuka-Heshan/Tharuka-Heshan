@@ -18,7 +18,7 @@
 
 
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&weight=100&size=27&duration=5001&pause=1000&color=3BF7C3&center=true&random=false&width=500&height=55&lines=Hey%F0%9F%91%8B+I+am+Tharuka+Heshan+.+.+.+%F0%9F%91%80%F0%9F%99%82" alt="Typing SVG" /></a>                             
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&weight=100&size=27&duration=5001&pause=1800&color=3BF7C3&center=true&random=false&width=500&height=55&lines=Hey%F0%9F%91%8B+I+am+Tharuka+Heshan+.+.+.+%F0%9F%91%80%F0%9F%99%82" alt="Typing SVG" /></a>                             
  
 
 
