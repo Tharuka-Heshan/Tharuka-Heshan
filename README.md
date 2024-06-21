@@ -21,7 +21,7 @@
 <p align="center">
     <a href="https://github.com/Tharuka-Heshan">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI...👋+I+am+Tharuka%20+%20Heshan+...+👨‍💻"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI...👋+I+am+Tharuka%30+%30Heshan+...+👨‍💻"
             alt="Typing SVG"
         />
     </a>
