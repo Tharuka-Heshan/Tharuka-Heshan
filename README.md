@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&weight=100&size=20&duration=5001&pause=1800&color=27EBF7FF&center=true&random=true&width=500&height=55&lines=😇+I'm+not+a+Programmer+🙃" alt="Typing SVG" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&weight=100&size=20&duration=5001&pause=1800&color=FFF411FB&center=true&random=true&width=500&height=55&lines=👀+I’m+interested+about+WHATSAPP+BOTS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&weight=100&size=20&duration=5001&pause=1800&color=FFF411FB&center=true&random=true&width=500&height=55&lines=👀+I’m+interested+about+WHATSAPP+BOTS+🤖" alt="Typing SVG" /></a>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&weight=100&size=20&duration=5001&pause=1800&color=F70000FF&center=true&random=true&width=500&height=55&lines=🌱+I’m+currently+learning+🧑‍🎓+📖" alt="Typing SVG" /></a>
